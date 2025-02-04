@@ -15,20 +15,17 @@ Mendoza Amaro Brandon Gustavo GDS0641 1223100384
 
 # Capturas de pantalla de los examenes de NetaCad:
 ## Modulo 1
-<img src="https://github.com/user-attachments/assets/c68f0d46-fefc-4a93-b101-5d9c34e509e7"/>
+<img src="https://github.com/user-attachments/assets/383f6158-5ed4-4e2e-b9de-8897a76e6450"/>
 
 ## Modulo 2
-<img src="https://github.com/user-attachments/assets/675d0724-f237-4dce-b428-227505c6b067"/>
+<img src="https://github.com/user-attachments/assets/3812b712-39ca-43d5-8d41-d8a665abc575"/>
 
 ## Modulo 3
-<img src="https://github.com/user-attachments/assets/94aebcc9-0fac-4297-8361-1849fa29b95b"/>
+<img src="https://github.com/user-attachments/assets/e561cde1-a701-49b4-a537-e30adf44d7ae"/>
 
 ## Modulo 4
-<img src="https://github.com/user-attachments/assets/81caecfb-9f16-4cce-9e35-e849e8811c12"/>
-
-## Modulo 5
-<img src="https://github.com/user-attachments/assets/bafb9902-d383-4123-8be4-f38390ac495c"/>
+<img src="https://github.com/user-attachments/assets/458bbf34-d7e0-44b5-9387-8b28b420442c"/>
 
 ## Examen final
-<img src="https://github.com/user-attachments/assets/d2f0b3a2-b1c2-458e-9d9e-bcf7bc999465"/>
+<img src="https://github.com/user-attachments/assets/5818abd5-70da-4b6d-b09c-a4964b9845de"/>
 
