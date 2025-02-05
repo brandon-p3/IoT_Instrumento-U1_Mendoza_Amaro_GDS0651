@@ -5,10 +5,9 @@
 Mendoza Amaro Brandon Gustavo GDS0641 1223100384
 
 ## Ejercicio de Soldadura (Figura)
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/2e2e024c-ac72-4f73-a220-d5360f542c4a"/>
+<img src="https://github.com/user-attachments/assets/dd0d03a0-c89e-4d12-a7ec-9f0d1e727a6d"/>
 
-## Ejercicio de Soldadura (Placa)
-<img src=""/>
 
 # Ejercicios Realizados en clase (Link Carpeta Drive)
 ## https://drive.google.com/drive/folders/1sP4SSI5GcvTXiK-0ikMEQNKuhZUxR2oL?usp=drive_link
