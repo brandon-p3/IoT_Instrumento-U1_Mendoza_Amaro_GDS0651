@@ -5,12 +5,17 @@
 Mendoza Amaro Brandon Gustavo GDS0641 1223100384
 
 ## Ejercicio de Soldadura (Figura)
-<img src="https://github.com/user-attachments/assets/2e2e024c-ac72-4f73-a220-d5360f542c4a"/>
-<img src="https://github.com/user-attachments/assets/dd0d03a0-c89e-4d12-a7ec-9f0d1e727a6d"/>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2e2e024c-ac72-4f73-a220-d5360f542c4a" width="300"/>
+    <img src="https://github.com/user-attachments/assets/dd0d03a0-c89e-4d12-a7ec-9f0d1e727a6d" width="300"/>
+</p>
 
 
 # Ejercicios Realizados en clase (Link Carpeta Drive)
 ## https://drive.google.com/drive/folders/1sP4SSI5GcvTXiK-0ikMEQNKuhZUxR2oL?usp=drive_link
+
+# Practicas hechas eb clase (Link Carpeta Videos)
+## h
 
 # Capturas de pantalla de los examenes de NetaCad:
 ## Modulo 1
