@@ -5,9 +5,16 @@
 Mendoza Amaro Brandon Gustavo GDS0641 1223100384
 
 ## Ejercicio de Soldadura (Figura)
+## Gustavo
 <p align="center">
     <img src="https://github.com/user-attachments/assets/2e2e024c-ac72-4f73-a220-d5360f542c4a" width="300"/>
     <img src="https://github.com/user-attachments/assets/dd0d03a0-c89e-4d12-a7ec-9f0d1e727a6d" width="300"/>
+</p>
+
+## Mirza
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/928d6bfa-139f-4cb7-b8ec-54935ed4795b" width="300"/>
+    <img src="https://github.com/user-attachments/assets/ae3ac0e1-2e5e-403d-83da-ef9d0404db2c" width="300"/>
 </p>
 
 
