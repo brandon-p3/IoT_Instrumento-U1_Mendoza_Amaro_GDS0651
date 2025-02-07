@@ -25,6 +25,12 @@ Morales Lezama Mirza Natzielly GDS0651 1223100813
 # Practicas hechas eb clase (Link Carpeta Videos)
 ## h
 
+# Capturas de pantalla de los examen teorico:
+## Gustavo
+
+## Mirza
+<img src="https://github.com/user-attachments/assets/1f3604ea-f65a-4cf5-bfbe-e59e3d955f71"/>
+
 # Capturas de pantalla de los examenes de NetaCad:
 ## Gustavo
 ## Modulo 1
