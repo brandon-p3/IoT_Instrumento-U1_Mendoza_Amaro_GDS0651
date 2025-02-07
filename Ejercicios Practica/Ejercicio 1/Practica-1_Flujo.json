@@ -1,0 +1,122 @@
+[
+    {
+        "id": "ae2596e2b499b3ca",
+        "type": "tab",
+        "label": "Flow 3",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f3b8c1c031848a2c",
+        "type": "mqtt in",
+        "z": "ae2596e2b499b3ca",
+        "name": "",
+        "topic": "bgma/sensor",
+        "qos": "2",
+        "datatype": "auto-detect",
+        "broker": "514c3107a6b05e74",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 150,
+        "y": 140,
+        "wires": [
+            [
+                "6793fbae0831da82"
+            ]
+        ]
+    },
+    {
+        "id": "6793fbae0831da82",
+        "type": "postgresql",
+        "z": "ae2596e2b499b3ca",
+        "name": "INSERT sensor_details",
+        "query": "INSERT INTO sensor_details (sensor_id, user_id, value) VALUES (1,1, {{{msg.payload}}});",
+        "postgreSQLConfig": "d279ba5394c54502",
+        "split": true,
+        "rowsPerMsg": 1,
+        "outputs": 1,
+        "x": 390,
+        "y": 140,
+        "wires": [
+            [
+                "63b4be7892086f44"
+            ]
+        ]
+    },
+    {
+        "id": "63b4be7892086f44",
+        "type": "debug",
+        "z": "ae2596e2b499b3ca",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": true,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 650,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "514c3107a6b05e74",
+        "type": "mqtt-broker",
+        "name": "aiot",
+        "broker": "192.168.137.144",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "d279ba5394c54502",
+        "type": "postgreSQLConfig",
+        "name": "aiot",
+        "host": "127.0.0.1",
+        "hostFieldType": "str",
+        "port": "5432",
+        "portFieldType": "num",
+        "database": "aiot",
+        "databaseFieldType": "str",
+        "ssl": "false",
+        "sslFieldType": "bool",
+        "applicationName": "",
+        "applicationNameType": "str",
+        "max": 10,
+        "maxFieldType": "num",
+        "idle": 1000,
+        "idleFieldType": "num",
+        "connectionTimeout": 10000,
+        "connectionTimeoutFieldType": "num",
+        "user": "utng",
+        "userFieldType": "str",
+        "password": "1234",
+        "passwordFieldType": "str"
+    }
+]
