@@ -67,3 +67,6 @@ Modulo 4
 <img src="https://github.com/user-attachments/assets/7ab1f365-4bc1-462b-b927-25b56879f7f2" width="500"/>
 
 Examen Final del Curso
+
+<img src="https://github.com/user-attachments/assets/69511ce3-1677-4931-8b30-35fab94d3861" width="500"/>
+
