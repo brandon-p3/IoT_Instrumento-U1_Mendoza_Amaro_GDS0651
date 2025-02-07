@@ -2,7 +2,8 @@
 # Instrumento de Evaluación Unidad 1
 
 ## Nombre
-Mendoza Amaro Brandon Gustavo GDS0641 1223100384
+Mendoza Amaro Brandon Gustavo GDS0651 1223100384
+Morales Lezama Mirza Natzielly GDS0651 1223100813
 
 ## Ejercicio de Soldadura (Figura)
 ## Gustavo
