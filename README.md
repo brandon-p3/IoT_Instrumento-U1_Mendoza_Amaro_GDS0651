@@ -18,6 +18,8 @@ Mendoza Amaro Brandon Gustavo GDS0641 1223100384
 ## h
 
 # Capturas de pantalla de los examenes de NetaCad:
+
+## Gustavo
 ## Modulo 1
 <img src="https://github.com/user-attachments/assets/383f6158-5ed4-4e2e-b9de-8897a76e6450"/>
 
@@ -32,4 +34,24 @@ Mendoza Amaro Brandon Gustavo GDS0641 1223100384
 
 ## Examen final
 <img src="https://github.com/user-attachments/assets/5818abd5-70da-4b6d-b09c-a4964b9845de"/>
+
+## Mirza
+
+Modulo 1
+
+<img src="https://github.com/user-attachments/assets/b4a66adb-51ca-4e5b-9dbf-5b7c999a74bc" width="500"/>
+
+Modulo 2
+
+<img src="https://github.com/user-attachments/assets/abc59331-9adb-467f-a2e7-a0836ea2e333" width="500"/>
+
+Modulo 3
+
+<img src="https://github.com/user-attachments/assets/cc7f0f6d-28b5-4ba0-a740-8ada9557dcb7" width="500"/>
+
+Modulo 4
+
+<img src="https://github.com/user-attachments/assets/7ab1f365-4bc1-462b-b927-25b56879f7f2" width="500"/>
+
+Examen Final del Curso
 
