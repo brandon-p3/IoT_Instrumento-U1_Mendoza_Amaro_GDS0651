@@ -3,6 +3,7 @@
 
 ## Nombre
 Mendoza Amaro Brandon Gustavo GDS0651 1223100384
+
 Morales Lezama Mirza Natzielly GDS0651 1223100813
 
 ## Ejercicio de Soldadura (Figura)
